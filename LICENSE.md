@@ -1,4 +1,4 @@
-# 
+# Ligero Omni Flash extensiones. Con sincronización en la nube y ejecución de código — optimizado para el máximo rendimiento y eficiencia.
 
 
 
